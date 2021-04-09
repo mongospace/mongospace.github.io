@@ -1,0 +1,9 @@
+---
+layout: page
+title: 2021
+permalink: /2021/
+---
+
+Target of 2021:
+
+[jekyll-organization]: https://github.com/jekyll
