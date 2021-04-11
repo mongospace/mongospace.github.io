@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Captain's Blog
+title: Bob's Blog
 email: eyour-email@example.com
 description:
   My Dream Board!.

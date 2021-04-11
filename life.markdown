@@ -7,12 +7,37 @@ permalink: /life/
 Target of life:
 
 - Passive income equal salary
-    - Fund Total amount | Year income
-        - 2020 | 2W
-        - 2021 |2.5W
-    - fund ETF500 30 thousand RMB
+    - Fund(200W whole life plan)
+        -   S & P 500ETF 15 thousand RMB
+        -   | Year | Total amount | Accumulated profit |
+            | ---- | ----         | ----        |
+            | 2020.12 | 2W        | 2807        | 
+            | 2021 | 3.5W(Plan)   |             |
+    - Stock A
+        -   | Year | Total amount | Accumulated profit |
+            | ---- | ---- | ---- |
+            | 2021.4 | 5.6W      |  1289        |
+            | 2021   | 3W(Reduced to) |           |
+    - Stock US & H
+        -   Tiger Global accounts
+        -   | Year | Total amount | US income | Hong Kong dollar income | Position profit and loss（$)|
+            | ---- | ---- | ---- |
+            | 2021.4 | 7928 |  1168 | 6053 | 258 |
+        -   Tiger Consolidated account
+        -   | Year | Total amount | US income | Hong Kong dollar income | Position profit and loss（$)|
+            | ---- | ---- | ---- | ---- |
+            | 2021.4 | 6960 |  515 | 2245 | -1226
+        -   Futu account
+        -   | Year | Total amount | Comprehensive income (￥)|
+            | ---- | ---- | ---- |
+            | 2021.4 | 21390 | 506 |
 - 2000 square house
 - Car cadillac
 - Keep reading
     - Read more than 12 books every year
 - Donation
+    -   | Year | accumulative total | channel (￥)|
+        | ---- | ---- | ---- |
+        | 2021.4  | 299 | alipay-Love donation |
+        | 2021.12 | 500（Plan) | alipay-Love donation |
+
