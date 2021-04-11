@@ -11,8 +11,8 @@ Target of life:
         -   S & P 500ETF 15 thousand RMB
         -   | Year | Total amount | Accumulated profit |
             | ---- | ----         | ----        |
-            | 2020.12 | 2W        | 2807        | 
-            | 2021 | 3.5W(Plan)   |             |
+            | 2021.4 | 2.5W       | 2807        | 
+            | 2021.12| 3.5W(Plan) | +1250(5%)-plan   |
     - Stock A
         -   | Year | Total amount | Accumulated profit |
             | ---- | ---- | ---- |
