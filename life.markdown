@@ -11,12 +11,12 @@ Target of life:
         -   S & P 500ETF 15 thousand RMB
         -   | Year | Total amount | Accumulated profit |
             | ---- | ----         | ----        |
-            | 2021.4 | 2.5W       | 2807        | 
+            | 2021.4 | 2.5W       | 2807        |
             | 2021.12| 3.5W(Plan) | +1250(5%)-plan   |
     - Stock A
         -   | Year | Total amount | Accumulated profit |
             | ---- | ---- | ---- |
-            | 2021.4 | 5.6W      |  1289        |
+            | 2021.4 | 5.6W      |  1289(2.3%)    |
             | 2021   | 3W(Reduced to) |           |
     - Stock US & H
         -   Tiger Global accounts
