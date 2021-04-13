@@ -4,5 +4,4 @@
 
 layout: home
 ---
-<h1>{{ "Hello World!QQ" | downcase }}</h1>
-{{ site.title }}
+<h1>{{ "Hello World! Bob" }}</h1>
