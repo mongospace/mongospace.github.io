@@ -7,7 +7,8 @@ permalink: /10do/
 10 Do:
 - 樊登读书会
 - 多看阅读及听书
-- 算法解题
+- 算法解题,Python, Mysql
+- 建站系统, B站SEO, PHP, VUE.js
 - make plan
 - 逛公园
 - 跑步
