@@ -5,28 +5,45 @@ permalink: /2021/
 ---
 
 Target of 2021:
-- fund 2021 Monthly Passive income 300
-- annualized yield of 5 to 10 percent
-    - Accumulated profit
-        - 2021-4-10 2807
-        - 2021-5
-    - fund ETF500 30 thousand RMB
+- Annualized yield of 5 to 10 percent
+  - Fund 2021 Monthly Passive income 300 * 12
+  - Accumulated profit
+    - 2021-4-10 2807
+    - 2021-5
+  - Fund ETF500 30 thousand RMB
 - Keep reading
-    - 可复制的领导力
-    - 穷查理宝典
-    - 巴菲特之道
-    - 从0到1
-    - 联盟
-    - 支付战争
-    - 干活
-    - 活法
-    - 思考，快与慢
-    - 高效休息法
-    - 高效能人士的七个习惯
-    - 刻意练习
-    - 终身成长
-    - 硅谷钢铁侠
-    - 哈佛商学院最受欢迎的领导课
-    - 精益创业
-    - 你就是孩子最好的玩具
+  - 可复制的领导力
+  - 穷查理宝典
+  - 巴菲特之道
+  - 从0到1
+  - 联盟
+  - 支付战争
+  - 干活
+  - 活法
+  - 思考，快与慢
+  - 高效休息法
+  - 高效能人士的七个习惯
+  - 刻意练习
+  - 终身成长
+  - 硅谷钢铁侠
+  - 哈佛商学院最受欢迎的领导课
+  - 精益创业
+  - 你就是孩子最好的玩具
 - Python精益求精-专家之路-讲师之路
+- https://stackoverflow.com/ 回答问题 reputation 季度2-3个
+- 最佳实践每季度2-3篇
+- jekly gitbook & 博客文章
+- 2020年总结
+- 2021-4-30 博客园积分 - 204201 排名 - 3691
+- 五一劳动节
+  - gift
+    - Dady sharper, t-shirt
+    - Mom clothes
+    - sister hair drier, weifeng:
+    - brother sharper, juan:
+    - 2 + 2 + (1 + 1) + 1  kids miniso
+    - jd snacks sugar:tato chips, chocolates,
+- 十一国庆节
+  - gift
+- 春节
+  - gift
