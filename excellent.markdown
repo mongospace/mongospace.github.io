@@ -12,6 +12,7 @@ Home and Work balance:
   - passive income
     - 200W fund
     - 50W stock
+  - a car > 30W
 - work
   - Python expert
 - Reading thousands of books

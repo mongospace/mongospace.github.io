@@ -24,7 +24,7 @@ Target of decade 2031-2040(48-58):
   - Automobile club
   - Build a website, SEO
   - Overseas E-commerce
-  - Is there a chance to hold a company
+  - Is there a chance to hold a company(lulu)
 
 Target of decade 2041-2050(59-69):
 

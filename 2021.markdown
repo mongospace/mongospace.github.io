@@ -6,10 +6,13 @@ permalink: /2021/
 
 Target of 2021:
 - Annualized yield of 5 to 10 percent
-  - Fund 2021 Monthly Passive income 300 * 12
-  - Accumulated profit
+  - Fund 2021 Monthly Passive income 300 * 12 = 3600
+  - 30000 * 5% = 1500
+  - Fund Total Amount increased to 3.5W(Plan) From 2.5W(2021.4)
+  - Accumulated profit(Only Fund)
     - 2021-4-10 2807
-    - 2021-5
+    - 2021-5-12 3269
+    - 2021-6-1
   - Fund ETF500 30 thousand RMB
 - Keep reading
   - 可复制的领导力
@@ -18,7 +21,7 @@ Target of 2021:
   - 从0到1
   - 联盟
   - 支付战争
-  - 干活
+  - 干法
   - 活法
   - 思考，快与慢
   - 高效休息法
@@ -45,5 +48,7 @@ Target of 2021:
     - jd snacks sugar:tato chips, chocolates,
 - 十一国庆节
   - gift
+    - weifeng, junyong sharper
+    - chocolates
 - 春节
   - gift
