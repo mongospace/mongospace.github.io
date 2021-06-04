@@ -1,8 +1,10 @@
 ---
 layout: page
-title: What is a successful life?
+title: target
 permalink: /excellent/
 ---
+
+What is a successful life?
 
 Home and Work balance:
 

@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 成功的人必备的品质-motto
+title: motto
 permalink: /motto/
 ---
 
 What person you will be:
 
+- 成功的人必备的品质
 - As long as it's never too late to start
 - keep learning, keep humble, keep fit
 - Read thousands of books and travel thousands of miles
